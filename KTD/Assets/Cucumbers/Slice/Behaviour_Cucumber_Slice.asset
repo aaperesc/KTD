@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a478f052c63e67c4ea16c225fcbbace1, type: 3}
+  m_Name: Behaviour_Cucumber_Slice
+  m_EditorClassIdentifier: 
+  Stats: {fileID: 11400000, guid: 2cca54fbaa466704f97bda338696fbb0, type: 2}
+  BasicCombatAbility: {fileID: 11400000, guid: 7992cd52b012b434684de2d757de1c7f, type: 2}

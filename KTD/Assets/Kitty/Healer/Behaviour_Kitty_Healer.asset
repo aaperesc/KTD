@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db32318c17b3684193a622028c0d3f8, type: 3}
+  m_Name: Behaviour_Kitty_Healer
+  m_EditorClassIdentifier: 
+  Stats: {fileID: 11400000, guid: 47750cc5c9848894fb318c1b9ba5245b, type: 2}
+  EquippedItems: {fileID: 11400000, guid: bd910dbac4c22d442be8a1b87d52d3a0, type: 2}
+  BasicCombatAbility: {fileID: 11400000, guid: 9a6f9998635c09d43a0b9c71ce269fde, type: 2}
+  SpecialCombatAbility: {fileID: 11400000, guid: 8ca09bb7b76bc7b4ba77aa4cd6fa5cc1,
+    type: 2}
+  Modifiers: []
+  RuntimeStats: {fileID: 0}

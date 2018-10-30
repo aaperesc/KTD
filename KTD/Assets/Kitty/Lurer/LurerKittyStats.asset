@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1252bfbb781d2954996051d08301c753, type: 3}
+  m_Name: LurerKittyStats
+  m_EditorClassIdentifier: 
+  Name: Lurer
+  Cost: 30
+  Thumbnail: {fileID: 0}
+  KittyUnitObject: {fileID: 114080195818733478, guid: a13521d2f8bc8074699828f930a005dc,
+    type: 2}
+  sockets: []
+  HealthPoints: 1000
+  AttackSpeed: 0
+  AttackRange: 0
+  MovementSpeed: 0

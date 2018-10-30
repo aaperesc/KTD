@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db32318c17b3684193a622028c0d3f8, type: 3}
+  m_Name: DummyKittyBehaviour
+  m_EditorClassIdentifier: 
+  Stats: {fileID: 11400000, guid: beef293521f3a31459bf44fbf2fde471, type: 2}
+  BasicCombatAbility: {fileID: 11400000, guid: 37388343bb5c85e48b5a4d23fa539d8b, type: 2}
+  AttackBoneName: R_Arm3
+  AttackTransform: {fileID: 4597015288448752, guid: 5ac2ca51c857a0e48bfb9911396532c8,
+    type: 2}

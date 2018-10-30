@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1252bfbb781d2954996051d08301c753, type: 3}
+  m_Name: Stats_Kitty_Healer
+  m_EditorClassIdentifier: 
+  Name: HealerKitty
+  Gold: 0
+  HealthPoints: 300
+  AttackSpeed: 2
+  AttackRange: 6
+  MovementSpeed: 3
+  GameUnitObject: {fileID: 114424759787491080, guid: 4bbe80490b7062448852fd19bd006845,
+    type: 2}
+  Thumbnail: {fileID: 0}
+  sockets:
+  - name: R_Arm3
+    transform: {fileID: 0}
+    isAttackSocket: 1
+  - name: Back
+    transform: {fileID: 0}
+    isAttackSocket: 0
